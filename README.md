@@ -1,6 +1,3 @@
-# 100-days-of-code
-Project3_100-days-of-code
-100-days-of-code
 My 100 days journey with coding to improve my Machine Learning, Deep Learning, Data Science skills. Posting current updates on twitter: https://twitter.com/AgnMikolajczyk
 
 Day 1
